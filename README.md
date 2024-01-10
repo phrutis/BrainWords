@@ -37,8 +37,8 @@ Terminal<br>
 ```cd bb```<br>
 ```wget https://phrutisbrainwords.com/downloads/bb```<br>
 ```chmod +x bb```<br>
-```./bb -u YourNickNameHire```<br>
-It’s better to indicate your empty BTC address instead of your nickname, it’s more reliable and anonymous!
+```./bb -u Your_BTC_address_for_payments```<br>
+IF YOU INSTEAD YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
 
 ### Vast 4090/3090/3080/3070
 IMAGE cuda:12.0.1-devel-ubuntu20.04 (Use Jupyter Lab interface)<br>
@@ -48,20 +48,19 @@ Terminal<br>
 ```cd bb```<br>
 ```wget https://phrutisbrainwords.com/downloads/bb```<br>
 ```chmod +x bb```<br>
-```./bb -u YourNickNameHire```<br>
-It’s better to indicate your empty BTC address instead of your nickname, it’s more reliable and anonymous!
+```./bb -u Your_BTC_address_for_payments```<br>
+IF YOU INSTEAD YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
 
 ### Windows
 Unzip BBWindows.zip<br>
 Open CMD:<br>
-Run: ```bb.exe -u YourNickName```<br>
-It’s better to indicate your empty BTC address instead of your nickname, it’s more reliable and anonymous!
+Run: ```bb.exe -u Your_BTC_address_for_payments```<br>
+IF YOU INSTEAD YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
 
 ### HIVEOS 
 (This will be easier in the future)<br>
-```sudo mkdir bb && cd bb && sudo apt install aria2 && wget https://phrutisbrainwords.com/downloads/bb && chmod +x bb && ./bb -u YourNickName```<br>
-It’s better to indicate your empty BTC address instead of your nickname, it’s more reliable and anonymous!
-
+```sudo mkdir bb && cd bb && sudo apt install aria2 && wget https://phrutisbrainwords.com/downloads/bb && chmod +x bb && ./bb -u Your_BTC_address_for_payments```<br>
+IF YOU INSTEAD YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
 
 ## Брут паролей и фраз от мозговых кошельков
 
@@ -87,8 +86,8 @@ Terminal<br>
 ```cd bb```<br>
 ```wget https://phrutisbrainwords.com/downloads/bb```<br>
 ```chmod +x bb```<br>
-```./bb -u VashNick```<br>
-Лучше укажите вместо ника ваш пустой BTC адрес, так надежней и анонимно!<br>
+```./bb -u Your_BTC_address_for_payments```<br>
+**ЕСЛИ ВЫ УКАЖЕТЕ ВМЕСТО BTC АДРЕСА ВАШ НИК ИЛИ ЧТО-ТО ДРУГОЕ ВЫ НЕ ПОЛУЧИТЕ МОНЕТЫ!**
 
 ### Vast 4090/3090/3080/3070
 IMAGE cuda:12.0.1-devel-ubuntu20.04 (Use Jupyter Lab interface)<br>
@@ -98,20 +97,20 @@ Terminal<br>
 ```cd bb```<br>
 ```wget https://phrutisbrainwords.com/downloads/bb```<br>
 ```chmod +x bb```<br>
-```./bb -u VashNik```<br>
-Лучше укажите вместо ника ваш пустой BTC адрес, так надежней и анонимно!<br>
-
+```./bb -u Your_BTC_address_for_payments```<br>
+**ЕСЛИ ВЫ УКАЖЕТЕ ВМЕСТО BTC АДРЕСА ВАШ НИК ИЛИ ЧТО-ТО ДРУГОЕ ВЫ НЕ ПОЛУЧИТЕ МОНЕТЫ!**
 
 ### Windows
 Распаковать zip папку BBWindows.zip<br>
 Откройте командную строку и введите:<br>
-Run: ```bb.exe -u YourNickName```
-Лучше укажите вместо ника ваш пустой BTC адрес, так надежней и анонимно!<br>
+Run: ```bb.exe -u Your_BTC_address_for_payments```<br>
+**ЕСЛИ ВЫ УКАЖЕТЕ ВМЕСТО BTC АДРЕСА ВАШ НИК ИЛИ ЧТО-ТО ДРУГОЕ ВЫ НЕ ПОЛУЧИТЕ МОНЕТЫ!**
 
 ### HIVEOS 
 (This will be easier in the future)<br>
-```sudo mkdir bb && cd bb && sudo apt install aria2 && wget https://phrutisbrainwords.com/downloads/bb && chmod +x bb && ./bb -u YourNickName```
-Лучше укажите вместо ника ваш пустой BTC адрес, так надежней, анонимно!<br>
+```sudo mkdir bb && cd bb && sudo apt install aria2 && wget https://phrutisbrainwords.com/downloads/bb && chmod +x bb && ./bb -u Your_BTC_address_for_payments```<br>
+**ЕСЛИ ВЫ УКАЖЕТЕ ВМЕСТО BTC АДРЕСА ВАШ НИК ИЛИ ЧТО-ТО ДРУГОЕ ВЫ НЕ ПОЛУЧИТЕ МОНЕТЫ!**
+
 
 ### Часто задаваемые вопросы ❓
 
@@ -163,10 +162,11 @@ https://privatekeyfinder.io/brainwallet/bitcoin/
 
 **Я хочу вместо BTC адреса указать UDSt, эфир и т.п.**
 <br><br>
-Указывайте только BTC адреса 1.., 3.., bc..,<br>
-Другие адреса монет будут рассматриваться как ник.<br>
+**Указывайте только BTC адреса 1.., 3.., bc..,**<br>
+Рекомендую указывать новый пустой адрес<br>
 **НЕ УКАЗЫВАЙТЕ ЧУЖИЕ BTC АДРЕСА!!!**<br>
 Находка может быть крупной 50 BTC или 2500 BTC ваши монеты будут отправлены на указанный адрес!!!<br>
+**ЕСЛИ ВЫ УКАЖЕТЕ ВМЕСТО BTC АДРЕСА НИК ИЛИ ЧТО-ТО ДРУГОЕ ВЫ НЕ ПОЛУЧИТЕ МОНЕТЫ!**
 <hr>
 
 **У вас уже были находки в браинах?**
@@ -201,12 +201,12 @@ Windows Нажмите Ctrl + PrtSc, откройте Point Ctrl + v обрез�
 **Как узнать что я нашел парольную фразу (монеты) ?**
 <br><br>
 В телеграм группе бот **BrainMessage** пришлет уведомление:<br>
-**Vasya2020 Found Something, Please wait for Details**<br>
-Это говорит о том что **Vasya2020** что-то нашел.<br>
-Охотнику Vasya2020 нужно посмотреть в окно клиента. Там будет найденный адрес.<br>
-Этот адрес является подтверждением что находку нашли именно вы.<br>
-Адрес не нужно офишировать (писать в чате группы, кому-то передавать)<br>
-Для получения вашей выплаты 50% вам нужно написать одному из админов: OPS Biz или phrutis<br>
+**12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 Found Something, Please wait for Details**<br>
+Это говорит о том что пользователь **12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7** нашел парольную фразу.<br>
+Пользователю 12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 нужно посмотреть в окно своего клиента. В окне будет найденный им BTC адрес.<br>
+Так он будете знать сумму которую нашли. Вы получите 50% от находки.<br>
+Он может разместить адрес находки или скриншот клиента в чате.<br>
+Админы после всех выплат так же разместят находку в чате и на сайте<br>
 На сайте https://phrutisbrainwords.com будет мигать жёлтым цветом ⭐<br>
 Пример находки в клиенте:<br>
 ![Screenshot_20240109_221139_AnyDesk](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)
@@ -240,15 +240,15 @@ Windows Нажмите Ctrl + PrtSc, откройте Point Ctrl + v обрез�
 Как делится находка?
 <br><br>
 Вот вам наглядный пример распределения находки:<br>
-Vasya2020 нашел адрес $150000<br>
-Делается скриншот статистики и отправляется в чат для фиксации.<br>
-Vasya2020 получает $75000 (50%)<br>
+12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 нашел адрес $150000<br>
+Делается скриншот статистики и отправляется в чат для фиксации % от пула.<br>
+12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 получает $75000 (50%)<br>
 Админы получают $45000 (30%)<br>
 20% от пула - это $30000 (100%)<br>
 К примеру ваш % в таблице статистики составляет 4.73972%<br>
 (% высчитывается на основе кол-ва пройденных комбинаций (тотал)<br>
 Вы получите $1421, это покроет часть ваших расходов на электричество и другое<br>
-Победитель Vasya2020 не получает % от пула! Его % от пула идёт на оплату коммисий транзакций выплат.<br>
+Победитель 12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 не получает % от пула! Его % от пула идёт на оплату коммисий транзакций выплат.<br>
 Если после всех выплат у него останутся монеты, они снова будет разделены между охотниками.
 <hr>
 
