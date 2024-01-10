@@ -52,6 +52,7 @@ Terminal<br>
 It’s better to indicate your empty BTC address instead of your nickname, it’s more reliable and anonymous!
 
 ### Windows
+Unzip BBWindows.zip<br>
 Open CMD:<br>
 Run: ```bb.exe -u YourNickName```<br>
 It’s better to indicate your empty BTC address instead of your nickname, it’s more reliable and anonymous!
@@ -102,6 +103,7 @@ Terminal<br>
 
 
 ### Windows
+Распаковать zip папку BBWindows.zip<br>
 Откройте командную строку и введите:<br>
 Run: ```bb.exe -u YourNickName```
 Лучше укажите вместо ника ваш пустой BTC адрес, так надежней и анонимно!<br>
