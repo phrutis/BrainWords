@@ -106,7 +106,7 @@ https://privatekeyfinder.io/brainwallet/bitcoin/
 У меня написало: loaded addresses: 23353984 и зависоло! НЕТ СКОРОСТИ!
 <br><br>
 Закройте окно. Откройте и запустите клиент заново:<br>
-./bb -u Vash-nik<br>
+./bb -u BTC-ADDRESS<br>
 Клиент начнет работать и вы увидите скорость<br>
 <hr>
 
