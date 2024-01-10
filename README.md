@@ -73,6 +73,7 @@ Passwords were lost and forgotten. Do you remember your password 12 years ago? A
 One character, dot or register is wrong and the entire wallet is lost. There is no restore button.<br>
 Look for more information about brain wallet on the Internet.
 <hr>
+
 **What does Brown Jacks look like?**
 <br>
 Were there any finds at all?
@@ -105,7 +106,7 @@ When restarted, the table will not be generated, the client will start immediate
 I wrote: loaded addresses: 23353984 and it froze! NO SPEED!
 <br><br>
 Close the window. Open and run the client again:<br>
-./bb -u Vash-nik<br>
+./bb -u BTC-ADDRESS<br>
 The client will start working and you will see the speed<br>
 <hr>
 
@@ -211,13 +212,8 @@ Specify the cards you need separated by commas
 **I didn't find the answer to my question**
 <br><br>
 Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx
+<hr>
 <br><br>
-
-
-
-
-
-
 
 
 
