@@ -68,46 +68,6 @@ IF YOU INSERT YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RE
 ```sudo mkdir bb && cd bb && sudo apt install aria2 && wget https://phrutisbrainwords.com/downloads/bb && chmod +x bb && ./bb -u Your_BTC_address_for_payments```<br>
 IF YOU INSERT YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
 
-## Search strategy:
-Now we are looking...<br>
-Alphabet: @1234567890 abcdefghijklmnopqrstuvwxyz.,<br>
-Phrase length 1-11 characters<br>
-Generating passphrases:<br>
-```hi my btc```<br>
-```happy new year 2012```<br>
-```satoshi 12345```<br>
-```55.737495257```<br>
-```my wallet 50 btc```<br>
-```hi hi hi hi hi```<br>
-```xx1234567890xx```<br>
-And other variations of phrases.<br>
-Possible re-pass with ETH (search speed is lower)<br>
-
-### The following options:<br>
-Phrase length 1-11 characters<br>
-As in the option above, only a constant prefix of a capital letter is added in front of the generation.<br>
-Example:<br>
-```Hello my btc```<br>
-```Good day 2012```<br>
-```Cryptoman22```<br>
-```Superman 2009```<br>
-```Test1test2test3<```br>
-26 capital letter combinations.<br>
-Possible re-pass with ETH coin (search speed is lower)<br>
-
-### Next stage (possibly a separate server):<br>
-All possible symbols length 1-9 BTC<br>
-All possible symbols length 1-9 ETH (search speed is lower)<br>
-Here we generate complex brain passwords:<br>
-```<-BoSs->```<br>
-```Br@#N&7x~```<br>
-```x.*&?toP5```<br>
-```V@sya!!.,```<br>
-```!%Wallet!*```<br>
-
-Possible search for ETH Camp2 length 1-7 (very slow)<br>
-Search options and variations will change and be adjusted depending on many factors such as finds, pool speed and more.<br>
-
 ### Frequently asked questions ❓
 
 **What is a brain wallet?**
