@@ -33,6 +33,9 @@ Hunter to share 50% of find based on contribution.<br>
 Organizers 30%<br>
 Pool 20% (except the winner)
 
+Finds up to $100 are given to the person who found it.<br>
+To receive it, you need to provide a screen (photo) of the client with the found address to the admin
+
 ## Run
 ### Ubuntu Client
 Terminal<br>
