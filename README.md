@@ -28,16 +28,6 @@ Launch, Connection and Questions will be posted in Group.<br>
 
 *M (million passphrases per second)
 
-### Real FOUNDS
-Step 1<br>
-Alphabet: @1234567890 abcdefghijklmnopqrstuvwxyz.,<br>
-Phrase length 1-11 characters<br>
-
-| Date | Passphrase | Address | Balance $ |
-|------|------------|---------|-----------|
-| 09.01.2024 | 13p4vn0v7 | [1KykXjNRRmc6pP1vDogxYFJBUtpBHX5YAe](https://blockchair.com/bitcoin/address/1KykXjNRRmc6pP1vDogxYFJBUtpBHX5YAe) | $ 0.46 |
-| 10.01.2024 | bmgmvmy86g | [1PQgjJfpNZeAPBuXUAZg94gtaBXf2hjbfW](https://blockchair.com/bitcoin/address/1PQgjJfpNZeAPBuXUAZg94gtaBXf2hjbfW) | $ 0.46 |
-
 ## Payment terms:
 Hunter to share 50% of find based on contribution.<br>
 Organizers 30%<br>
