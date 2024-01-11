@@ -14,6 +14,8 @@ Web statistics: [https://phrutisbrainwords.com](https://phrutisbrainwords.com)
 
 Telegram: https://t.me/+k1jKsx_fxTo1MzQx<br>
 Launch, Connection and Questions will be posted in Group.<br>
+
+
 ## Performance
 
 | GPUs card     | Speed   |
@@ -24,6 +26,16 @@ Launch, Connection and Questions will be posted in Group.<br>
 | RTX 2060      | 30 M/s |
 
 *M (million passphrases per second)
+
+### Real FOUNDS
+Step 1<br>
+Alphabet: @1234567890 abcdefghijklmnopqrstuvwxyz.,<br>
+Phrase length 1-11 characters<br>
+
+| Date | Passphrase | Address | Balance $ |
+|------|------------|---------|-----------|
+| 09.01.2024 | 13p4vn0v7 | [1KykXjNRRmc6pP1vDogxYFJBUtpBHX5YAe](https://blockchair.com/bitcoin/address/1KykXjNRRmc6pP1vDogxYFJBUtpBHX5YAe) | $ 0.46 |
+| 10.01.2024 | bmgmvmy86g | [1PQgjJfpNZeAPBuXUAZg94gtaBXf2hjbfW](https://blockchair.com/bitcoin/address/1PQgjJfpNZeAPBuXUAZg94gtaBXf2hjbfW) | $ 0.46 |
 
 ## Payment terms:
 Hunter to share 50% of find based on contribution.<br>
@@ -112,9 +124,10 @@ This method was used 10-15 years ago. At that time, coins were worth almost noth
 Passwords were lost and forgotten. Do you remember your password 12 years ago? Are you sure?<br>
 One character, dot or register is wrong and the entire wallet is lost. There is no restore button.<br>
 Look for more information about brain wallet on the Internet.
+See hire generstion [https://brainwalletx.github.io](https://brainwalletx.github.io)
 <hr>
 
-**What does Brown Jacks look like?**
+**What does Brain Wallet look like?**
 <br>
 Were there any finds at all?
 <br><br>
@@ -161,8 +174,7 @@ The find can be large 50 BTC or 2500 BTC your coins will be sent to the specifie
 
 **Have you already found any finds in Brians?**
 <br><br>
-Yes there were, 20-30 finds from $2 to 1270.<br>
-You can see our new findings on the statistics website https://phrutisbrainwords.com/
+Yes there were, 20-30 finds from $2 to $1270.<br>
 <hr>
 
 **I found where is my payment? 8-10 hours have already passed!**
@@ -195,8 +207,7 @@ In the telegram group the bot **BrainMessage** will send a notification:<br>
 This indicates that the user **12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7** found the passphrase.<br>
 User 12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 needs to look at his client window. The window will show the BTC address he found.<br>
 So he will know the amount that was found. You will receive 50% of the find.<br>
-He can post the address of the find or a screenshot of the client in the chat.<br>
-After all payments, admins will also post the find in the chat and on the website<br>
+After all payments, admins will also post the find (passphrase) in the chat and on the website<br>
 The website https://phrutisbrainwords.com will flash yellow ⭐<br>
 Example of a find in the client:<br>
 ![Screenshot_20240109_221139_AnyDesk](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)
@@ -212,17 +223,14 @@ For this reason, 2 messages are received in the general chat.<br>
 <hr>
 
 **I rent cards from Alexander, Dmitry question:**
-<br>
-How can I protect myself so that they don’t get my find (% of the pool)?<br>
-After all, they will see the found address and may not receive their share?<br>
 <br><br>
-When you rent rigs (cards) from miners, ask them to indicate your empty BTC address instead of your nickname.<br>
-In this case, the payment will go to the address specified instead of the nickname.<br>
+When you rent rigs (cards) from miners, ask them to indicate your empty BTC address<br>
+In this case, the payment will go to the address specified insteate<br>
 <hr>
 
 **I'm a miner, I don't want to be visible in the chat, etc. How can I participate anonymously?**
 <br><br>
-Launch the client, enter your empty BTC address instead of your nickname.
+Launch the client, enter your empty BTC address instead.
 <hr>
 
 **How do I calculate my % of the pool?**
@@ -254,7 +262,6 @@ Specify the cards you need separated by commas
 Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx
 <hr>
 <br><br>
-
 
 
 
