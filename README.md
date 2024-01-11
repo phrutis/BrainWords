@@ -23,6 +23,7 @@ Launch, Connection and Questions will be posted in Group.<br>
 | RTX 4090      | 360 M/s |
 | RTX 3090      | 170 M/s |
 | RTX 3070      | 100 M/s |
+| RTX 3050      | 45 M/s |
 | RTX 2060      | 30 M/s |
 
 *M (million passphrases per second)
