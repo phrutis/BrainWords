@@ -29,12 +29,11 @@ Launch, Connection and Questions will be posted in Group.<br>
 *M (million passphrases per second)
 
 ## Payment terms:
-Hunter to share 50% of find based on contribution.<br>
-Organizers 30%<br>
-Pool 20% (except the winner)
+Hunter to share **50%** of find based on contribution.<br>
+Organizers **30%** <br>
+Pool **20%** (except the winner)
 
-Finds up to $100 are given to the person who found it.<br>
-To receive it, you need to provide a screen (photo) of the client with the found address to the admin
+**Finds up to $100 are paid in full to the finder!**
 
 ## Run
 ### Ubuntu Client
@@ -161,8 +160,7 @@ In the telegram group the bot **BrainMessage** will send a notification:<br>
 This indicates that the user **12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7** found the passphrase.<br>
 User 12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 needs to look at his client window. The window will show the BTC address he found.<br>
 So he will know the amount that was found. You will receive 50% of the find.<br>
-After all payments, admins will also post the find (passphrase) in the chat and on the website<br>
-The website https://phrutisbrainwords.com will flash yellow ⭐<br>
+After all payments, admins will also post the find (passphrase) in the chat<br>
 Example of a find in the client:<br>
 ![Screenshot_20240109_221139_AnyDesk](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)
 <hr>
@@ -216,7 +214,6 @@ Specify the cards you need separated by commas
 Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx
 <hr>
 <br><br>
-
 
 
 
