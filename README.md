@@ -108,7 +108,7 @@ When restarted, the table will not be generated, the client will start immediate
 I wrote: loaded addresses: 23353984 and it froze! NO SPEED!
 <br><br>
 Close the window. Open and run the client again:<br>
-./bb -u BTC-ADDRESS<br>
+./bb -u YouNickName<br>
 The client will start working and you will see the speed<br>
 <hr>
 
