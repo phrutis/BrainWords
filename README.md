@@ -177,15 +177,15 @@ Launch the client, enter your empty BTC address instead.
 How is the find divided?
 <br><br>
 Here is a clear example of the distribution of a find:<br>
-ouPnde adyes 1000b
+Petya123 found $150.000
 A screenshot of the statistics is taken and sent to the chat to record % of the pool.<br>
-12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 receives $75,000 (50%)<br>
+Petya receives $75,000 (50%)<br>
 Admins receive $45,000 (30%)<br>
 20% of the pool is $30,000 (100%)<br>
 For example, your % in the statistics table is 4.73972%<br>
 (% is calculated based on the number of completed combinations (total)<br>
 You will receive $1421, which will cover part of your electricity and other expenses<br>
-The winner 12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 does not receive % of the pool! Its % of the pool goes to pay commissions for payout transactions.<br>
+The winner Petya123 does not receive % of the pool! Its % of the pool goes to pay commissions for payout transactions.<br>
 If after all payments he has coins left, they will again be divided among the hunters.
 <hr>
 
