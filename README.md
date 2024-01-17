@@ -42,8 +42,7 @@ Terminal<br>
 ```cd bb```<br>
 ```wget https://phrutisbrainwords.com/downloads/bb```<br>
 ```chmod +x bb```<br>
-```./bb -u Your_BTC_address_for_payments```<br>
-IF YOU INSERT YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
+```./bb -u YourNickName```<br>
 
 ### Vast 4090/3090/3080/3070
 IMAGE cuda:12.0.1-devel-ubuntu20.04 (Use Jupyter Lab interface)<br>
@@ -53,19 +52,16 @@ Terminal<br>
 ```cd bb```<br>
 ```wget https://phrutisbrainwords.com/downloads/bb```<br>
 ```chmod +x bb```<br>
-```./bb -u Your_BTC_address_for_payments```<br>
-IF YOU INSERT YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
+```./bb -u YourNickName```<br>
 
 ### Windows
 Unzip BBWindows.zip<br>
 Open CMD:<br>
-Run: ```bb.exe -u Your_BTC_address_for_payments```<br>
-IF YOU INSERT YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
+Run: ```bb.exe -u YourNickName```<br>
 
 ### HIVEOS 
 (This will be easier in the future)<br>
-```sudo mkdir bb && cd bb && sudo apt install aria2 && wget https://phrutisbrainwords.com/downloads/bb && chmod +x bb && ./bb -u Your_BTC_address_for_payments```<br>
-IF YOU INSERT YOUR NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!
+```sudo mkdir bb && cd bb && sudo apt install aria2 && wget https://phrutisbrainwords.com/downloads/bb && chmod +x bb && ./bb -u YourNickName```<br>
 
 ### Frequently asked questions ❓
 
@@ -116,15 +112,6 @@ Close the window. Open and run the client again:<br>
 The client will start working and you will see the speed<br>
 <hr>
 
-**I want to indicate UDSt, Ether, etc. instead of BTC addresses**
-<br><br>
-**Indicate only BTC addresses 1.., 3.., bc..,**<br>
-I recommend specifying a new empty address<br>
-**DO NOT INDICATE OTHER PEOPLE'S BTC ADDRESSES!!!**<br>
-The find can be large 50 BTC or 2500 BTC your coins will be sent to the specified address!!!<br>
-**IF YOU INDICATE A NICK OR SOMETHING ELSE INSTEAD OF BTC ADDRESS YOU WILL NOT RECEIVE COINS!**
-<hr>
-
 **Have you already found any finds in Brians?**
 <br><br>
 Yes there were, 20-30 finds from $2 to $1270.<br>
@@ -156,13 +143,13 @@ Windows Press Ctrl + PrtSc, open Point Ctrl + v crop and send to group.
 **How do I know that I have found the passphrase (coins)?**
 <br><br>
 In the telegram group the bot **BrainMessage** will send a notification:<br>
-**12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 Found Something, Please wait for Details**<br>
-This indicates that the user **12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7** found the passphrase.<br>
-User 12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 needs to look at his client window. The window will show the BTC address he found.<br>
+**Basya2020 Found Something, Please wait for Details**<br>
+This indicates that the user **Vasya2020** found the passphrase.<br>
+User Vasya2020 needs to look at his client window. The window will show the BTC address he found.<br>
 So he will know the amount that was found. You will receive 50% of the find.<br>
 After all payments, admins will also post the find (passphrase) in the chat<br>
 Example of a find in the client:<br>
-![Screenshot_20240109_221139_AnyDesk](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)
+![brainwallet](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)
 <hr>
 
 **Why does the bot send 2 messages about a find at once?**
@@ -190,7 +177,7 @@ Launch the client, enter your empty BTC address instead.
 How is the find divided?
 <br><br>
 Here is a clear example of the distribution of a find:<br>
-12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 found address $150,000<br>
+ouPnde adyes 1000b
 A screenshot of the statistics is taken and sent to the chat to record % of the pool.<br>
 12EWQG73gVgsEmyMy73ZS2FjHVPpCbGDd7 receives $75,000 (50%)<br>
 Admins receive $45,000 (30%)<br>
