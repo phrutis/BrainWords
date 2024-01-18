@@ -203,6 +203,10 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx
 <br><br>
 
 ## Table Progress task 1-8-9
+**Alphabet:**
+<br>
+```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
+
 Length 8
 |  FOUND Address     | Progress   |
 |---------------------------------|------|
