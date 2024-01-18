@@ -210,7 +210,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx
 Length 8
 |  FOUND Address     | Progress   |
 |---------------------------------|------|
-|13q6gFnXEurUGB8Rj5yivpXc3A3Hr3bNRR| 10% |
+|13q6gFnXEurUGB8Rj5yivpXc3A3Hr3bNRR| 10% :white_check_mark:|
 |1GC7XVgzug6axiy32ovPshSSnb5yJ1QHUq| 20% |
 |1BnVVPwq2L67vk2wKMKdoSwpVqvt8PuMPY| 30% |
 |1MkJTakSDuLzzqFaMedHpKbnkbQkTkvxid| 40% |
