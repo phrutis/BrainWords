@@ -211,7 +211,7 @@ Length 8
 |  FOUND Address     | Progress   |
 |---------------------------------|------|
 |13q6gFnXEurUGB8Rj5yivpXc3A3Hr3bNRR| 10% :white_check_mark:|
-|1GC7XVgzug6axiy32ovPshSSnb5yJ1QHUq| 20% |
+|1GC7XVgzug6axiy32ovPshSSnb5yJ1QHUq| 20% :white_check_mark:|
 |1BnVVPwq2L67vk2wKMKdoSwpVqvt8PuMPY| 30% |
 |1MkJTakSDuLzzqFaMedHpKbnkbQkTkvxid| 40% |
 |1DXmahTGBjtzTv7VVJ2PqPa9iDNyr5c7ps| 50% |
