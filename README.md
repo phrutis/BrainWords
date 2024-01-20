@@ -105,7 +105,8 @@ When restarted, the table will not be generated, the client will start immediate
 
 **I connected for the first time. The program froze, 25 minutes have passed???**
 <br> README.md
-I wrote: loaded addresses: 23353984 and it froze! NO SPEED!
+I wrote: loaded addresses: 23354080 and it froze!<br>
+NO SPEED!
 <br><br>
 Close the window. Open and run the client again:<br>
 ./bb -u YouNickName<br>
@@ -142,8 +143,8 @@ Windows Press Ctrl + PrtSc, open Point Ctrl + v crop and send to group.
 
 **How do I know that I have found the passphrase (coins)?**
 <br><br>
-In the telegram group the bot **BrainMessage** will send a notification:<br>
-**Basya2020 Found Something, Please wait for Details**<br>
+In the telegram group the bot **Brain2** will send a notification:<br>
+**Vasya2020 Found Something, Please wait for Details**<br>
 This indicates that the user **Vasya2020** found the passphrase.<br>
 User Vasya2020 needs to look at his client window. The window will show the BTC address he found.<br>
 So he will know the amount that was found. You will receive 50% of the find.<br>
