@@ -224,7 +224,7 @@ Vaya2024 получает $75000 (50%)<br>
 |1GC7XVgzug6axiy32ovPshSSnb5yJ1QHUq| 20% :white_check_mark:|
 |1BnVVPwq2L67vk2wKMKdoSwpVqvt8PuMPY| 30% :white_check_mark:|
 |1MkJTakSDuLzzqFaMedHpKbnkbQkTkvxid| 40% :white_check_mark:|
-|1DXmahTGBjtzTv7VVJ2PqPa9iDNyr5c7ps| 50% |
+|1DXmahTGBjtzTv7VVJ2PqPa9iDNyr5c7ps| 50% :white_check_mark:|
 |1JaXYBH9tVp9KjnNKP5yofnAxvsadvSLHS| 60% |
 |1NnvxyrWW7piggrMQziv77bvYQYBkCPC5B| 70% |
 |1Jjv4RDUTHRyfFfEVe5SaGg7jqZ6kJqteH| 80% |
