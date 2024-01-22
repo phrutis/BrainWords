@@ -158,24 +158,16 @@ Windows Press Ctrl + PrtSc, open Point Ctrl + v crop and send to group.
 **How do I know what I found? passphrase, balance?**
 <br><br>
 When someone finds a bot **Brain2** in a telegram group, it sends 2 notifications:<br>
-
-**User: Vasya**
-<br>
-================ FOUND =================<br>
-Adr: 17WqVTg8KYJpkAdBo6STReH7uTY37usqs<br>
-
-========================================<br>
-
+**Vasya,Found Something, Please wait for Details**<br>
+User Vasya needs to look at his client window. In the window he will see the BTC address he found.<br>
+Example of a find in the client:<br>
+![creenshk](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)<br>
 You can check the balance of the found address here https://www.blockchain.com/ru/ or in any other blockchain.<br>
-This way you will find out the balance of the find, the finder is entitled to 50%<br>
+This way you can find out the balance of the find, the finder is entitled to 50%<br>
 Admins also receive a message from the bot with a find. They know who found the key and other information.<br>
 If the amount is more than $100, a screenshot of statistics is taken to record the % of the pool of all participants at the time of discovery.<br>
 After all calculations, payment is made.<br>
 After payment, the admins will post the found password and private key in the chat.<br>
-
-User Vasya needs to look at his client window. In the window he will see the found BTC address.<br>
-Example of a find in the client:<br>
-![creenshk](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)
 <hr>
 
 **How are finds paid up to $100?**
