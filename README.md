@@ -75,6 +75,7 @@ Run: ```bb.exe -u YourNickName```<br>
 If you decide to search with a nickname, write in telegram phrutis your nickname and an empty BTC address.
 Your BTC address will be entered into a private table for the payment of the find or % of the pool.
 The find can be found at night when you are offline, so as not to wait for you and search for it, the admins will have your address.
+<hr>
 
 **What is a brown jack?**
 <br><br>
@@ -129,6 +130,7 @@ The client will start working and you will see the speed<br>
 This happens when you reconnect. This speed does not affect anything.<br>
 % of the pool is calculated by the number of completed combinations (total)<br>
 Usually after some time the site begins to show your nominal speed.
+<hr>
 
 **Have you already found any finds in Brians?**
 <br><br>
@@ -194,7 +196,7 @@ This is why 2 messages arrive in the general chat.<br>
 
 **I rent cards from miners question:**
 <br>
-How can I protect myself so that they don’t get my find (% of the pool)?<br>
+How can I protect myself so that they don’t get my find (% of the pool)?
 <br><br>
 When you rent rigs (cards) from miners, ask them to indicate your BTC address instead of your nickname.<br>
 In this case, the payment will go to the address indicated in the nickname<br>
@@ -233,7 +235,7 @@ Specify the cards you need separated by commas
 **I didn't find the answer to my question**
 <br><br>
 Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
-<br><br>
+<hr>
 
 ## Table Progress task 8 ✅
 **Alphabet:**
