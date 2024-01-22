@@ -3,15 +3,20 @@
 #### Searching for those forgotten bitcoin brain wallets
 ![Brain_Wallet](https://github.com/phrutis/BrainWords/assets/140947743/f55f6027-e737-4f77-b156-2a0dd170e366)
 
-This pool will be the fastest search pool in the world, using the latest GPU libraries and having a programmer stand by the project through testing.<br>
+🚀 This is the fastest GPU pool in the world. 🚀<br>
+The program uses fast algorithms and CUDA libraries.<br>
 
 We managed to achieve a speed of RTX 4090 = 360M/s (360000000 passwords/s)<br>
-We are currently looking Legacy BTC addresses from $1<br>
+We are currently looking for 23354080 addresses of BTC Legacy 1... (all addresses on 1...)<br>
+Current task: Length 9, all possible combinations (progress at the bottom of the page)<br>
+The program searches in two modes at once.<br>
+From one private key, 2 addresses are checked (compressed and uncompressed)
 <br>
 Web statistics: [https://phrutisbrainwords.com](https://phrutisbrainwords.com)
 
 **If you are ready to search with us 24/7, join us.**
-
+<br><br>
+Admins: OPS Biz, phrutis<br>
 Telegram: https://t.me/+k1jKsx_fxTo1MzQx<br>
 Launch, Connection and Questions will be posted in Group.<br>
 
@@ -20,18 +25,18 @@ Launch, Connection and Questions will be posted in Group.<br>
 
 | GPUs card     | Speed   |
 |---------------|---------|
-| RTX 4090      | 360 M/s |
-| RTX 3090      | 170 M/s |
-| RTX 3070      | 100 M/s |
-| RTX 3050      | 45 M/s |
-| RTX 2060      | 30 M/s |
+| RTX 4090 | 360 MKeys/s |
+| RTX 3090 | 170 MKeys/s |
+| RTX 3070 | 100 MKeys/s |
+| RTX 3050 | 45 MKeys/s |
+| RTX 2060 | 30 MKeys/s |
 
-*M (million passphrases per second)
+*MKeys (millions of passwords per second)
 
-## Payment terms:
-Hunter to share **50%** of find based on contribution.<br>
-Organizers **30%** <br>
-Pool **20%** (except the winner)
+## Payment terms 💰
+**50%** of the balance of the find is paid to the person who found the brain password.<br>
+**30%** of the balance is received by the pool organizers.<br>
+**20%** of the balance is divided among all hunters (see % of the pool), **except the winner**.
 
 **Finds up to $100 are paid in full to the finder!**
 
@@ -65,33 +70,37 @@ Run: ```bb.exe -u YourNickName```<br>
 
 ### Frequently asked questions ❓
 
-**What is a brain wallet?**
+**I indicated a nickname and am looking for how the admins will pay me?**
+<br><br>
+If you decide to search with a nickname, write in telegram phrutis your nickname and an empty BTC address.
+Your BTC address will be entered into a private table for the payment of the find or % of the pool.
+The find can be found at night when you are offline, so as not to wait for you and search for it, the admins will have your address.
+
+**What is a brown jack?**
 <br><br>
 These are passwords or phrases converted to sha256; the output is a private key to the address.<br>
-At the address, people stored coins there, a passphrase in their heads.<br>
+People stored coins at the address and a passphrase in their heads.<br>
 This method was used 10-15 years ago. At that time, coins were worth almost nothing.<br>
 Passwords were lost and forgotten. Do you remember your password 12 years ago? Are you sure?<br>
 One character, dot or register is wrong and the entire wallet is lost. There is no restore button.<br>
-Look for more information about brain wallet on the Internet.
-See hire generstion [https://brainwalletx.github.io](https://brainwalletx.github.io)
+Look for more information about brain wallet on the Internet.<br>
+Visual generator of brain jacks [https://brainwalletx.github.io](https://brainwalletx.github.io)
 <hr>
 
-**What does Brain Wallet look like?**
-<br>
-Were there any finds at all?
+**What does Brown Jacks look like?**
 <br><br>
 Here is a white list of passwords, phrases, balances, study<br>
 https://privatekeyfinder.io/brainwallet/bitcoin/
 <hr>
 
-**I connected for the first time. The program froze, 15 minutes have passed???**
+**I connected for the first time. The program has frozen, 15 minutes have passed**
 <br><br>
-When you first connect, the BTC address database is downloaded<br>
-This usually lasts from 5 to 10 minutes<br>
+When a client first connects, a database of BTC addresses is downloaded<br>
+This usually lasts from 3 to 10 minutes<br>
 It depends on the Internet speed. Can take up to 20 minutes.<br>
 <hr>
 
-**I connected for the first time. The program froze at this point, 20 minutes passed???**
+**I connected for the first time. The program froze at this point, 20 minutes have passed**
 <br>
 **Generating the EC point cache. This is only done once...***
 <br><br>
@@ -104,35 +113,38 @@ When restarted, the table will not be generated, the client will start immediate
 <hr>
 
 **I connected for the first time. The program froze, 25 minutes have passed???**
-<br> README.md
-I wrote: loaded addresses: 23354080 and it froze!<br>
-NO SPEED!
+<br>
+I wrote: loaded addresses: 23354080 and froze!<br>
+**NO SPEED!**
 <br><br>
-Close the window. Open and run the client again:<br>
-./bb -u YouNickName<br>
+Close the window.<br>
+Open and run the client again:<br>
+./bb -u YourNickName<br>
+bb.exe -u YourNickName<br>
 The client will start working and you will see the speed<br>
 <hr>
 
+**My speed in the table is 2 times higher**
+<br><br>
+This happens when you reconnect. This speed does not affect anything.<br>
+% of the pool is calculated by the number of completed combinations (total)<br>
+Usually after some time the site begins to show your nominal speed.
+
 **Have you already found any finds in Brians?**
 <br><br>
-Yes there were, 20-30 finds from $2 to $1270.<br>
+Yes there were, 20-30 finds from $0.40 to $1270.<br>
 <hr>
 
-**I found where is my payment? 8-10 hours have already passed!**
+**I found where is my payment? 2-3 hours have already passed!**
 <br><br>
-The found private key is imported into BitCoin Core.<br>
-If the address is compressed 2018-2020, it takes 1-3 hours to import it to complete indexing.<br>
-We use a very fast M.2 SSD, but if the address is from 2009-2013 then it is not compressed, we will need 6 to 9 hours of indexing.<br>
-You need to understand that BitCoin Core may index a previous find.<br>
-You also need to take into account time zones; administrators have a main job.<br>
-It is also necessary to divide the % of the pool, collect the addresses of hunters and other factors.<br>
-You should wait for your payment.
+You need to consider time zones and other factors<br>
+The payment will be made after all calculations, divided by hunters in one transaction.
 <hr>
 
 **I can’t launch the program, error..**
 <br><br>
 Download the newest (latest) drivers for your video card.<br>
-If the problem persists, write about it in the chat.<br>
+If the problem is not resolved, write about it in the chat.<br>
 There are no telepaths in the group, take a screenshot of the program window with the error.
 <hr>
 
@@ -141,16 +153,34 @@ There are no telepaths in the group, take a screenshot of the program window wit
 Windows Press Ctrl + PrtSc, open Point Ctrl + v crop and send to group.
 <hr>
 
-**How do I know that I have found the passphrase (coins)?**
+**How do I know what I found? passphrase, balance?**
 <br><br>
-In the telegram group the bot **Brain2** will send a notification:<br>
-**Vasya2020 Found Something, Please wait for Details**<br>
-This indicates that the user **Vasya2020** found the passphrase.<br>
-User Vasya2020 needs to look at his client window. The window will show the BTC address he found.<br>
-So he will know the amount that was found. You will receive 50% of the find.<br>
-After all payments, admins will also post the find (passphrase) in the chat<br>
+When someone finds a bot **Brain2** in a telegram group, it sends 2 notifications:<br>
+
+**User: Vasya**
+<br>
+================ FOUND =================<br>
+Adr: 17WqVTg8KYJpkAdBo6STReH7uTY37usqs<br>
+
+========================================<br>
+
+You can check the balance of the found address here https://www.blockchain.com/ru/ or in any other blockchain.<br>
+This way you will find out the balance of the find, the finder is entitled to 50%<br>
+Admins also receive a message from the bot with a find. They know who found the key and other information.<br>
+If the amount is more than $100, a screenshot of statistics is taken to record the % of the pool of all participants at the time of discovery.<br>
+After all calculations, payment is made.<br>
+After payment, the admins will post the found password and private key in the chat.<br>
+
+User Vasya needs to look at his client window. In the window he will see the found BTC address.<br>
 Example of a find in the client:<br>
-![brainwallet](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)
+![creenshk](https://github.com/phrutis/BrainWords/assets/140947743/1f0eebf8-3e19-45aa-8938-b788b30bfe72)
+<hr>
+
+**How are finds paid up to $100?**
+<br><br>
+If you search by nickname, the admins will send you the find by private message in telegram.<br><br>
+If you are searching anonymously (BTC address instead of nickname) <br>
+The balance of the find will be sent to your BTC address (minus the transaction fee.)
 <hr>
 
 **Why does the bot send 2 messages about a find at once?**
@@ -159,18 +189,21 @@ I found 2 finds at once compressed, not compressed address?
 <br><br>
 Then the bot will send 4 messages.<br>
 The bot also sends a message about the find to the admins.<br>
-For this reason, 2 messages are received in the general chat.<br>
+This is why 2 messages arrive in the general chat.<br>
 <hr>
 
-**I rent cards from Alexander, Dmitry question:**
+**I rent cards from miners question:**
+<br>
+How can I protect myself so that they don’t get my find (% of the pool)?<br>
 <br><br>
-When you rent rigs (cards) from miners, ask them to indicate your empty BTC address<br>
-In this case, the payment will go to the address specified insteate<br>
+When you rent rigs (cards) from miners, ask them to indicate your BTC address instead of your nickname.<br>
+In this case, the payment will go to the address indicated in the nickname<br>
 <hr>
 
 **I'm a miner, I don't want to be visible in the chat, etc. How can I participate anonymously?**
 <br><br>
-Launch the client, enter your empty BTC address instead.
+Launch the client, enter your empty BTC address instead of your nickname.<br>
+If you have any questions, write only to the admins personally.
 <hr>
 
 **How do I calculate my % of the pool?**
@@ -178,15 +211,15 @@ Launch the client, enter your empty BTC address instead.
 How is the find divided?
 <br><br>
 Here is a clear example of the distribution of a find:<br>
-Petya123 found $150.000
+Vasya2024 found the address $150000<br>
 A screenshot of the statistics is taken and sent to the chat to record % of the pool.<br>
-Petya receives $75,000 (50%)<br>
+Vaya2024 receives $75,000 (50%)<br>
 Admins receive $45,000 (30%)<br>
 20% of the pool is $30,000 (100%)<br>
-For example, your % in the statistics table is 4.73972%<br>
+For example, your % in the statistics table is 4.739%<br>
 (% is calculated based on the number of completed combinations (total)<br>
 You will receive $1421, which will cover part of your electricity and other expenses<br>
-The winner Petya123 does not receive % of the pool! Its % of the pool goes to pay commissions for payout transactions.<br>
+The winner of Vasya2024 **NOT** receives % of the pool! Its % of the pool goes to pay commissions for payout transactions.<br>
 If after all payments he has coins left, they will again be divided among the hunters.
 <hr>
 
@@ -199,16 +232,15 @@ Specify the cards you need separated by commas
 
 **I didn't find the answer to my question**
 <br><br>
-Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx
-<hr>
+Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 <br><br>
 
-## Table Progress task 8-9
+## Table Progress task 8 ✅
 **Alphabet:**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
 
-Checkpoints length 8
+**Checkpoints length 8**
 
 |  FOUND Address     | Progress % |
 |---------------------------------|------|
@@ -223,11 +255,16 @@ Checkpoints length 8
 |16SMrHZPUQtEm6zbtbQnATbj7tT3Rio3HN| 90% :white_check_mark:|
 |1CrsDmQUKsu5aWhgXGM9xJQzGjZZqqR9sq| 100% :white_check_mark:|
 
-Checkpoints length 9
+## Table Progress task 9 🟡
+**Alphabet:**
+<br>
+```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
+
+**Checkpoints length 9**
 
 |  FOUND Address     | Progress % |
 |---------------------------------|------|
-|1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% |
+|1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% 🟢|
 |12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% |
 |1FPtHP1pEcnQvgwhnNCAAFczvNyiUfDdQe| 03% |
 |18fYVfXcSQmVTR3AQCcoLwKytLRWap5H6y| 04% |
