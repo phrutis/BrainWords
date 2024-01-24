@@ -43,8 +43,8 @@ Launch, Connection and Questions will be posted in Group.<br>
 ## Run
 ### Ubuntu Client
 Terminal<br>
-```mkdir bb```<br>
-```cd bb```<br>
+```mkdir Pool```<br>
+```cd Pool```<br>
 ```wget https://phrutisbrainwords.com/downloads/bb```<br>
 ```chmod +x bb```<br>
 ```./bb -u YourNickName```<br>
@@ -53,14 +53,13 @@ Terminal<br>
 IMAGE cuda:12.0.1-devel-ubuntu20.04 (Use Jupyter Lab interface)<br>
 Use Jupyter Lab interface<br>
 Terminal<br>
-```mkdir bb```<br>
-```cd bb```<br>
+```mkdir POOL```<br>
+```cd POOL```<br>
 ```wget https://phrutisbrainwords.com/downloads/bb```<br>
 ```chmod +x bb```<br>
 ```./bb -u YourNickName```<br>
 
 ### Windows
-Unzip BBWindows.zip<br>
 Open CMD:<br>
 Run: ```bb.exe -u YourNickName```<br>
 
