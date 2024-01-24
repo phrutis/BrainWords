@@ -273,7 +273,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 
 |  FOUND Address     | Progress % |
 |---------------------------------|------|
-|1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% 🟢|
+|1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% :white_check_mark:|
 |12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% |
 |1FPtHP1pEcnQvgwhnNCAAFczvNyiUfDdQe| 03% |
 |18fYVfXcSQmVTR3AQCcoLwKytLRWap5H6y| 04% |
