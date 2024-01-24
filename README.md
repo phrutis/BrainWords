@@ -191,15 +191,6 @@ If you are searching anonymously (BTC address instead of nickname) <br>
 The balance of the find will be sent to your BTC address (minus the transaction fee.)
 <hr>
 
-**Why does the bot send 2 messages about a find at once?**
-<br>
-I found 2 finds at once compressed, not compressed address?
-<br><br>
-Then the bot will send 4 messages.<br>
-The bot also sends a message about the find to the admins.<br>
-This is why 2 messages arrive in the general chat.<br>
-<hr>
-
 **I rent cards from miners question:**
 <br>
 How can I protect myself so that they don’t get my find (% of the pool)?
@@ -263,7 +254,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 |16SMrHZPUQtEm6zbtbQnATbj7tT3Rio3HN| 90% :white_check_mark:|
 |1CrsDmQUKsu5aWhgXGM9xJQzGjZZqqR9sq| 100% :white_check_mark:|
 
-## Table Progress task 9 🟡
+## Table Progress task 9
 **Alphabet:**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
@@ -273,7 +264,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 |  FOUND Address     | Progress % |
 |---------------------------------|------|
 |1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% :white_check_mark:|
-|12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% |
+|12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% 🟡|
 |1FPtHP1pEcnQvgwhnNCAAFczvNyiUfDdQe| 03% |
 |18fYVfXcSQmVTR3AQCcoLwKytLRWap5H6y| 04% |
 |1F8qb3EBqR55iqP3ATExneMgexo13WAPKr| 05% |
