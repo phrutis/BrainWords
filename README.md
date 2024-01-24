@@ -156,7 +156,7 @@ Windows Press Ctrl + PrtSc, open Point Ctrl + v crop and send to group.
 
 **How do I know what I found? passphrase, balance?**
 <br><br>
-When someone finds someone in a telegram group, the bot **Brain2** sends notifications:<br>
+When someone finds someone in a telegram group, the bot **BrainBot2** sends notifications:<br>
 
 ```
 USER: Vasya
