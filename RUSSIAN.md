@@ -55,7 +55,6 @@ Terminal<br>
 ```./bb -u YourNickName```
 
 ### Windows
-Распаковать zip папку BBWindows.zip<br>
 Откройте командную строку и введите:<br>
 Run: ```bb.exe -u YourNickName```
 
