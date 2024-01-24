@@ -261,7 +261,7 @@ Vaya2024 получает $75000 (50%)<br>
 
 | BTC адрес-маяк (тестовый)  | Прогресс |
 |---------------------------------|------|
-|1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% |
+|1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% :white_check_mark:|
 |12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% |
 |1FPtHP1pEcnQvgwhnNCAAFczvNyiUfDdQe| 03% |
 |18fYVfXcSQmVTR3AQCcoLwKytLRWap5H6y| 04% |
