@@ -234,7 +234,7 @@ Specify the cards you need separated by commas
 Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 <hr>
 
-## Table Progress task 8 ✅
+## Table Progress task 8 (completed ✅)
 **Alphabet:**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
@@ -254,7 +254,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 |16SMrHZPUQtEm6zbtbQnATbj7tT3Rio3HN| 90% :white_check_mark:|
 |1CrsDmQUKsu5aWhgXGM9xJQzGjZZqqR9sq| 100% :white_check_mark:|
 
-## Table Progress task 9
+## Table Progress task 9 (active )
 **Alphabet:**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
