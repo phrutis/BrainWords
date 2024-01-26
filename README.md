@@ -254,7 +254,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 |16SMrHZPUQtEm6zbtbQnATbj7tT3Rio3HN| 90% :white_check_mark:|
 |1CrsDmQUKsu5aWhgXGM9xJQzGjZZqqR9sq| 100% :white_check_mark:|
 
-## Table Progress task 9 (active 🟨)
+## Table Progress task 9 (active)
 **Alphabet:**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
@@ -264,7 +264,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 |  FOUND Address     | Progress % |
 |---------------------------------|------|
 |1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% :white_check_mark:|
-|12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% 🟡|
+|12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% |
 |1FPtHP1pEcnQvgwhnNCAAFczvNyiUfDdQe| 03% |
 |18fYVfXcSQmVTR3AQCcoLwKytLRWap5H6y| 04% |
 |1F8qb3EBqR55iqP3ATExneMgexo13WAPKr| 05% |
