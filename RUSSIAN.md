@@ -232,7 +232,7 @@ Vaya2024 получает $75000 (50%)<br>
 <hr>
 
 ## Таблица прогресса задачи 8 (Завершено ✅)
-**Алфавит:**
+**Алфавит: ?a?a?a?a?a?a?a?a**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
 
@@ -252,7 +252,7 @@ Vaya2024 получает $75000 (50%)<br>
 |1CrsDmQUKsu5aWhgXGM9xJQzGjZZqqR9sq| 100% :white_check_mark:|
 
 ## Таблица прогресса задачи 9 (активная)
-**Алфавит:**
+**Алфавит: ?a?a?a?a?a?a?a?a?a**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
 
