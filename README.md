@@ -7,7 +7,7 @@
 The program uses fast algorithms and CUDA libraries.<br>
 
 We managed to achieve a speed of RTX 4090 = 360M/s (360000000 passwords/s)<br>
-We are currently looking for 23354080 addresses of BTC Legacy 1... (all addresses on 1...)<br>
+We are currently looking for 28380176 addresses of BTC Legacy 1... (all addresses on 1...)<br>
 Current task: Length 9, all possible combinations (progress at the bottom of the page)<br>
 The program searches in two modes at once.<br>
 From one private key, 2 addresses are checked (compressed and uncompressed)
@@ -114,7 +114,7 @@ When restarted, the table will not be generated, the client will start immediate
 
 **I connected for the first time. The program froze, 25 minutes have passed???**
 <br>
-I wrote: loaded addresses: 23354080 and froze!<br>
+I wrote: loaded addresses: 28380176 and froze!<br>
 **NO SPEED!**
 <br><br>
 Close the window.<br>
