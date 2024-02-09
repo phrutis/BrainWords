@@ -241,7 +241,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 
 **Checkpoints length 8**
 
-|  FOUND Address     | Progress % | FOUNDS |
+|  TEST Address     | Progress % | FOUNDS |
 |---------------------------------|------|------|
 |13q6gFnXEurUGB8Rj5yivpXc3A3Hr3bNRR| 10% :white_check_mark:| |
 |1GC7XVgzug6axiy32ovPshSSnb5yJ1QHUq| 20% :white_check_mark:| |
@@ -261,7 +261,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 
 **Checkpoints length 9**
 
-|  FOUND Address     | Progress % | FOUNDS |
+|  TEST Address     | Progress % | FOUNDS |
 |---------------------------------|------|------|
 |1KB6UW9ua1RBny2k5YsxmCdTsWicdmH5TC| 01% :white_check_mark:| A`i#w:lV3 |
 |12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% :white_check_mark:| |
