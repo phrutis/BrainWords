@@ -354,6 +354,27 @@ Vaya2024 получает $75000 (50%)<br>
 |1D2kxawgF4qhEupHuWeFCz1t2GC9AoxsG5| 92% | |
 |15gPdpu14o1hJ6TCKuNUBmBZxdT85TdF38| 93% | |
 
+<hr>
+
+## Активная ЗАДАЧА
+
+**Алфавит:** abcdefghijklm nopqrstuvwxyz.,!
+<br>
+**Находки:**
+<br>
+ieuiroiga<br>
+defwkjauza<br>
+npgwzhmdxa<br>
+pneojnfpqc<br>
+oieuiroiga<br>
+snbfhpxequ<br>
+svcgsitrxd<br>
+tsatahudpd<br>
+uwan ak uz<br>
+adonix prod<br>
+
+<hr>
+
 ### Гипотеза коллизий
 
 Поиск мозговых кошельков. В отличии от других пулов были находки. <br>
