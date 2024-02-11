@@ -254,7 +254,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 |16SMrHZPUQtEm6zbtbQnATbj7tT3Rio3HN| 90% :white_check_mark:| |
 |1CrsDmQUKsu5aWhgXGM9xJQzGjZZqqR9sq| 100% :white_check_mark:| |
 
-## Table Progress task 9 (active)
+## Table Progress task 9 (PAUSE)
 **Alphabet: ?a?a?a?a?a?a?a?a?a**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
@@ -357,10 +357,26 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 |1D2kxawgF4qhEupHuWeFCz1t2GC9AoxsG5| 92% | |
 |15gPdpu14o1hJ6TCKuNUBmBZxdT85TdF38| 93% | |
 
+<hr>
 
+## ACTIVE TASK
 
+**Alphabet:**
 
-
+abcdefghijklm nopqrstuvwxyz.,!
+<br>
+**FOUNDS Passphrases:**
+<br>
+ieuiroiga<br>
+defwkjauza<br>
+npgwzhmdxa<br>
+pneojnfpqc<br>
+oieuiroiga<br>
+snbfhpxequ<br>
+svcgsitrxd<br>
+tsatahudpd<br>
+uwan ak uz<br>
+adonix prod<br>
 
 
 
