@@ -80,7 +80,26 @@ Run: ```bb.exe -u YourNickName```
 Пароли терялись, забывались. Вы помните свой пароль 12 лет назад? Уверены?<br>
 Один символ, точка или регистр не так и всё кошелек потерян. Кнопки восстановить не существует.<br>
 Поищите больше информации о brainWallet в интернете.<br>
-Наглядный генератор браин валетов [https://brainwalletx.github.io](https://brainwalletx.github.io)
+Наглядный генератор браин валетов [https://brainwalletx.github.io](https://brainwalletx.github.io)<br><br>
+hqyqzhao123 - 77 BTC<br>
+wallet - 30 BTC<br>
+The Persistence Of Memory - 41 BTC<br>
+1BBBvd9G5YThYVVMSGSxJzQvQiQm3WxJC2 - 37 BTC<br>
+bitcoin is awesome - 500 BTC<br>
+The quick brown fox jumps over the lazy dog - 10 BTC<br>
+how much wood could a woodchuck chuck if a woodchuck could chuck wood - 500 BTC<br>
+16SH69WgJCXYXWV58sxjTxonhgBh5HCZTt - 22 BTC<br>
+gate gate paragate parasamgate bodhi svaha - 66 BTC<br>
+smashie050668 - 5 BTC<br>
+deadsheep - 14 BTC<br>
+blbyf[eqgblfhfc - 21 BTC<br>
+ludogay - 8 BTC<br>
+asdfghjkloiuytrewq - 18 BTC<br>
+Down the Rabbit-Hole - 165 BTC<br>
+qwertyuiopasdfghjklzxcvbnm - 1 BTC<br>
+blabla123123 - 0.4 BTC<br>
+en un lugar de la mancha - 2959 BTC<br>
+011235813213455 - 2 BTC<br>
 <hr>
 
 **Как выглядят браин валеты?**
