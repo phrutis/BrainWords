@@ -117,7 +117,6 @@ Down the Rabbit-Hole | 165 BTC<br>
 qwertyuiopasdfghjklzxcvbnm | 1 BTC<br>
 blabla123123 | 0.4 BTC<br>
 en un lugar de la mancha | 2 BTC<br>
-011235813213455 | 2 BTC<br>
 the | 5.2 BTC<br>
 correct horse battery staple | 36 BTC
 <hr>
