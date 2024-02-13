@@ -81,25 +81,40 @@ Run: ```bb.exe -u YourNickName```
 Один символ, точка или регистр не так и всё кошелек потерян. Кнопки восстановить не существует.<br>
 Поищите больше информации о brainWallet в интернете.<br>
 Наглядный генератор браин валетов [https://brainwalletx.github.io](https://brainwalletx.github.io)<br><br>
-hqyqzhao123 - 77 BTC<br>
-wallet - 30 BTC<br>
-The Persistence Of Memory - 41 BTC<br>
-1BBBvd9G5YThYVVMSGSxJzQvQiQm3WxJC2 - 37 BTC<br>
-bitcoin is awesome - 500 BTC<br>
-The quick brown fox jumps over the lazy dog - 10 BTC<br>
-how much wood could a woodchuck chuck if a woodchuck could chuck wood - 500 BTC<br>
-16SH69WgJCXYXWV58sxjTxonhgBh5HCZTt - 22 BTC<br>
-gate gate paragate parasamgate bodhi svaha - 66 BTC<br>
-smashie050668 - 5 BTC<br>
-deadsheep - 14 BTC<br>
-blbyf[eqgblfhfc - 21 BTC<br>
-ludogay - 8 BTC<br>
-asdfghjkloiuytrewq - 18 BTC<br>
-Down the Rabbit-Hole - 165 BTC<br>
-qwertyuiopasdfghjklzxcvbnm - 1 BTC<br>
-blabla123123 - 0.4 BTC<br>
-en un lugar de la mancha - 2 BTC<br>
-011235813213455 - 2 BTC<br>
+| BrainWallet Passphrase     | Balance  |
+|---------------|---------|
+hqyqzhao123 | 77 BTC<br>
+wallet | 30 BTC<br>
+ahijuna | 10 BTC<br>
+Walk Into This Room | 18 BTC<br>
+The Persistence Of Memory | 41 BTC<br>
+1BBBvd9G5YThYVVMSGSxJzQvQiQm3WxJC2 | 37 BTC<br>
+sfsf | 2.5 BTC<br>
+bitcoin is awesome | 500 BTC<br>
+The quick brown fox jumps over the lazy dog | 10 BTC<br>
+letmein420 | 7.3 BTC<br>
+how much wood could a woodchuck chuck if a woodchuck could chuck wood | 500 BTC<br>
+8964009 | 6.5 BTC<br>
+16SH69WgJCXYXWV58sxjTxonhgBh5HCZTt | 22 BTC<br>
+gate gate paragate parasamgate bodhi svaha | 66 BTC<br>
+smashie050668 | 3 BTC<br>
+deadsheep | 14 BTC<br>
+http://www.google.com | 1 BTC<br>
+fuckfuckfuckfuck | 1 BTC<br>
+goatsegoatsegoatse | 1 BTC<br>
+testingtestingtesting | 1 BTC<br>
+zerozerozero | 1.8 BTC<br>
+aurinkoaurinkoaurinko | 1 BTC<br>
+blbyf[eqgblfhfc | 21 BTC<br>
+ludogay | 8 BTC<br>
+asdfghjkloiuytrewq | 18 BTC<br>
+Down the Rabbit-Hole | 165 BTC<br>
+011235813213455 | 2 BTC<br>
+qwertyuiopasdfghjklzxcvbnm | 1 BTC<br>
+blabla123123 | 0.4 BTC<br>
+en un lugar de la mancha | 2 BTC<br>
+the | 5.2 BTC<br>
+correct horse battery staple | 36 BTC
 <hr>
 
 **Как выглядят браин валеты?**
