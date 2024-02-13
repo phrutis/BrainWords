@@ -84,7 +84,7 @@ This method was used 10-15 years ago. At that time, coins were worth almost noth
 Passwords were lost and forgotten. Do you remember your password 12 years ago? Are you sure?<br>
 One character, dot or register is wrong and the entire wallet is lost. There is no restore button.<br>
 Look for more information about brain wallet on the Internet.<br>
-Visual generator of brain jacks [https://brainwalletx.github.io](https://brainwalletx.github.io)<bt><br>
+Visual generator of brain wallet [https://brainwalletx.github.io](https://brainwalletx.github.io)<bt><br>
 hqyqzhao123 - 77 BTC<br>
 wallet - 30 BTC<br>
 The Persistence Of Memory - 41 BTC<br>
@@ -102,7 +102,7 @@ asdfghjkloiuytrewq - 18 BTC<br>
 Down the Rabbit-Hole - 165 BTC<br>
 qwertyuiopasdfghjklzxcvbnm - 1 BTC<br>
 blabla123123 - 0.4 BTC<br>
-en un lugar de la mancha - 2959 BTC<br>
+en un lugar de la mancha - 2 BTC<br>
 011235813213455 - 2 BTC<br>
 <hr>
 
