@@ -195,16 +195,16 @@ When someone finds someone in a telegram group, the bot **BrainBot2** sends noti
 ```
 USER: Vasya
 -================= FOUND ==================-
-Adr: 1M3WQxqkktCX23JszuzVknci75HvJ2N2Vm<br>
-============================================================
+Adr: 1M3WQxqkktCX23JszuzVknci75HvJ2N2Vm
+===========================================
 ```
 
 If the user specified an address instead of a nickname, the following message will be sent:<br>
 ```
 USER: 1GDQhEzKpsJwanyeaP1bSvX7uodmuYSKa9
 -================= FOUND ==================-
-Adr: 1M3WQxqkktCX23JszuzVknci75HvJ2N2Vm<br>
-============================================================
+Adr: 1M3WQxqkktCX23JszuzVknci75HvJ2N2Vm
+===========================================
 ```
 Vasya user needs to look at his client window.<br>
 In the client window, he will also see the found BTC address.<br>
@@ -394,27 +394,31 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 <hr>
 
 ## ACTIVE TASK
+Generating passphrases (sentences)
 
 **Alphabet:**
 
 abcdefghijklm nopqrstuvwxyz.,!
 <br>
-**FOUNDS Passphrases:**
-<br>
-ieuiroiga<br>
-defwkjauza<br>
-npgwzhmdxa<br>
-pneojnfpqc<br>
-oieuiroiga<br>
-snbfhpxequ<br>
-svcgsitrxd<br>
-tsatahudpd<br>
-uwan ak uz<br>
-adonix prod<br>
-itboalcxgok (13.02.2024)<br>
-ivuuwgntusi (13.02.2024)<br>
-jvpxulkjmbu (13.02.2024)<br>
-lengte crme (14.02.2024)<br>
-nyou nukeru (15.02.2024)<br>
+Current position "o"<br>
+Length 11
+
+|  Founds passphrases | Date |
+|---------------------------------|------|
+| ieuiroiga | 09.02.2024 |
+| defwkjauza | 09.02.2024 |
+| npgwzhmdxa | 10.02.2024 |
+| pneojnfpqc | 10.02.2024 |
+| oieuiroiga | 10.02.2024 |
+| snbfhpxequ | 10.02.2024 |
+| svcgsitrxd | 11.02.2024 |
+| tsatahudpd | 11.02.2024 |
+| uwan ak uz | 12.02.2024 |
+| adonix prod | 12.02.2024 |
+| itboalcxgok | 13.02.2024 |
+| ivuuwgntusi | 13.02.2024 |
+| jvpxulkjmbu | 13.02.2024 |
+| lengte crme | 14.02.2024 |
+| nyou nukeru | 15.02.2024 |
 
 
