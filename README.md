@@ -1,4 +1,4 @@
-# BrainWords GPU Pool
+8# BrainWords GPU Pool
 🇷🇺 **[ОПИСАНИЕ ПРОЕКТА НА РУССКОМ ЯЗЫКЕ](https://github.com/phrutis/BrainWords/blob/main/RUSSIAN.md)** 🇷🇺
 #### Searching for those forgotten bitcoin brain wallets
 ![Brain_Wallet](https://github.com/phrutis/BrainWords/assets/140947743/f55f6027-e737-4f77-b156-2a0dd170e366)
@@ -430,4 +430,5 @@ Length 11
 | lengte crme | 14.02.2024 |
 | nyou nukeru | 15.02.2024 |
 | oieuiroigax | 15.02.2024 |
+| ricava peri | 16.02.2024 |
 
