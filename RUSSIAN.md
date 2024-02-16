@@ -419,7 +419,7 @@ abcdefghijklm nopqrstuvwxyz.,!
 | lengte crme | 14.02.2024 |
 | nyou nukeru | 15.02.2024 |
 | oieuiroigax | 15.02.2024 |
-
+| ricava peri | 16.02.2024 |
 
 ### Гипотеза коллизий
 
