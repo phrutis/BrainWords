@@ -25,9 +25,17 @@ Launch, Connection and Questions will be posted in Group.<br>
 
 | GPUs card     | Speed   |
 |---------------|---------|
-| RTX 4090 | 360 MKeys/s |
-| RTX 3090 | 170 MKeys/s |
-| RTX 3070 | 100 MKeys/s |
+| 4090     | 360 Mkeys/s |
+| A100     | 180 Mkeys/s |
+| A6000    | 170 Mkeys/s |
+| 3090     | 170 Mkeys/s |
+| 3080 Ti  | 160 Mkeys/s |
+| 3080     | 140 Mkeys/s |
+| 3070 Ti  | 110 Mkeys/s |
+| 3070     | 100 Mkeys/s |
+| 3060     | 70 Mkeys/s |
+| 2080 S   | 70 Mkeys/s |
+| 2070     | 50 Mkeys/s |
 | RTX 3050 | 45 MKeys/s |
 | RTX 2060 | 30 MKeys/s |
 
