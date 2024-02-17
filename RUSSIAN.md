@@ -14,12 +14,20 @@
 ## Скорость поиска
 
 | GPUs card     |  Скорость   |
-|---------------|-------------|
-| RTX 4090      | 360 MKeys/s |
-| RTX 3090      | 170 MKeys/s |
-| RTX 3070      | 100 MKeys/s |
-| RTX 3050      | 45 MKeys/s |
-| RTX 2060      | 30 MKeys/s |
+|---------------|---------|
+| 4090     | 360 Mkeys/s |
+| A100     | 180 Mkeys/s |
+| A6000    | 170 Mkeys/s |
+| 3090     | 170 Mkeys/s |
+| 3080 Ti  | 160 Mkeys/s |
+| 3080     | 140 Mkeys/s |
+| 3070 Ti  | 110 Mkeys/s |
+| 3070     | 100 Mkeys/s |
+| 3060     | 70 Mkeys/s |
+| 2080 S   | 70 Mkeys/s |
+| 2070     | 50 Mkeys/s |
+| RTX 3050 | 45 MKeys/s |
+| RTX 2060 | 30 MKeys/s |
 
 *MKeys (миллионов паролей в сек)
 
@@ -398,7 +406,7 @@ Vaya2024 получает $75000 (50%)<br>
 abcdefghijklm nopqrstuvwxyz.,!
 <br>
 Длина 1-10 :white_check_mark: <br>
-Текущая позиция поиска o"<br>
+Текущая позиция поиска "u"<br>
 Длина 11
 
 |  Найденные пароли | Дата |
