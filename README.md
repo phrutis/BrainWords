@@ -408,7 +408,7 @@ Generating passphrases (sentences)
 
 abcdefghijklm nopqrstuvwxyz.,!
 <br>
-Current position "o"<br>
+Current position "u"<br>
 Length 1-10 :white_check_mark: <br>
 Length 11
 
