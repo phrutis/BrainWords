@@ -426,7 +426,7 @@ https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
 abcdefghijklm nopqrstuvwxyz.,!
 <br>
 Длина 1-10 :white_check_mark: <br>
-Текущая позиция поиска "u"<br>
+Текущая позиция поиска "w"<br>
 Длина 11
 
 |  Найденные пароли | Дата |
