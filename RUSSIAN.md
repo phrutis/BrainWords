@@ -291,8 +291,8 @@ https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
 Должно открыться 2 окна.<br>
 В первом окне таймер (время до сперезагрузки), во втором окне клиент пула.<br>
 После перезагрузки окно клиента открывается свернуто, смотрите внизу экрана, его можно развернуть.<br>
-Запуск для Ubuntu:
-```chmod +x start.sh```
+Запуск для Ubuntu:<br>
+```chmod +x start.sh```<br>
 ```./start.sh```
 <hr>
 
