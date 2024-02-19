@@ -282,7 +282,7 @@ https://github.com/phrutis/BrainWords/releases/download/v4.0/start.sh
 
 для Windows.<br>
 https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
-<br>(ругается защитник? ' это его нормальная реакция на все .bat файлы)
+<br>(ругается защитник? - это его нормальная реакция на все .bat файлы)
 
 Откройте батник в текстовом редакторе. Замените Your_Nick_Hire на ваш ник или BTC адрес <br>
 По умолчанию стоит значение 7200 секунд (2 часа) до следующих перезапусков.<br>
