@@ -271,6 +271,36 @@ The list of cards starts from 0.<br>
 Specify the cards you need separated by commas
 <hr>
 
+**My speed drops after an hour. No physical ability to restart the client**
+<br>
+<br>
+For those whose speed drops after an hour or two.<br>
+The client falls off the pool, there is no time to go to the location to restart.<br>
+Download the required batch file<br>
+
+For Ubuntu <br>
+https://github.com/phrutis/BrainWords/releases/download/v4.0/start.sh
+
+for Windows.<br>
+https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
+
+Open the batch file in a text editor. Replace Your_Nick_Hire with your nickname or BTC address <br>
+The default value is 7200 seconds (2 hours) until next restart.<br>
+You can set another value 3600 (hour) or 14400 (4 hours)<br>
+Do not set the value too low (less than an hour)<br>
+Save the batch file. <br>
+Place the file next to the program bb.exe (bb)<br>
+
+For Windows:<br>
+Zarusk START_POOL.bat.
+2 windows should open.<br>
+In the first window there is a timer (time until reboot), in the second window there is a pool client.<br>
+After the reboot, the client window opens minimized, look at the bottom of the screen, it can be expanded.<br>
+Launch for Ubuntu:<br>
+```chmod +x start.sh```
+```./start.sh```
+<hr>
+
 **I didn't find the answer to my question**
 <br><br>
 Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
