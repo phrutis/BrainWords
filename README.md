@@ -297,7 +297,7 @@ Zarusk START_POOL.bat.
 In the first window there is a timer (time until reboot), in the second window there is a pool client.<br>
 After the reboot, the client window opens minimized, look at the bottom of the screen, it can be expanded.<br>
 Launch for Ubuntu:<br>
-```chmod +x start.sh```
+```chmod +x start.sh```<br>
 ```./start.sh```
 <hr>
 
