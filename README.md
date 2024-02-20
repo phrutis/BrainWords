@@ -274,7 +274,7 @@ Specify the cards you need separated by commas
 **After an hour my speed drops, the client falls off...** <br>
 **No physical ability to restart the client**
 <br><br>
-**Option 1**
+**Option 1** <br>
 For those whose speed drops after an hour or two.<br>
 The client falls off the pool, there is no time to go to the location to restart.<br>
 Install the remote access program **AnyDesk** (win, lin, ubuntu) into your PC (rig)<br>
