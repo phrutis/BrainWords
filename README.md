@@ -271,34 +271,43 @@ The list of cards starts from 0.<br>
 Specify the cards you need separated by commas
 <hr>
 
-**My speed drops after an hour. No physical ability to restart the client**
-<br>
-<br>
+**After an hour my speed drops, the client falls off...** <br>
+**No physical ability to restart the client**
+<br><br>
+**Option 1**
 For those whose speed drops after an hour or two.<br>
 The client falls off the pool, there is no time to go to the location to restart.<br>
-Download the required batch file<br>
+Install the remote access program **AnyDesk** (win, lin, ubuntu) into your PC (rig)<br>
+Download the AnyDesk application to your phone. It will take 5 seconds for the client to restart.<br>
 
-For Ubuntu <br>
-https://github.com/phrutis/BrainWords/releases/download/v4.0/start.sh
+**Option 2** <br>
+**start the client using the batch file**<br>
 
-for Windows.<br>
+**For Ubuntu**<br>
+```wget https://github.com/phrutis/BrainWords/releases/download/v4.0/rig_online.sh```<br>
+Open the file with a text editor, replace Your_Nick_Hire with your nickname or BTC address!<br>
+```chmod +x rig_online.sh```<br>
+Launching a pool via a body file<br>
+```./rig_online.sh```<br>
+
+The essence of the batch file: If the used memory in the gpu card is less than 2 GB<br>
+There was probably some kind of server or internet failure or error, the client stopped.<br>
+Every 20 minutes there is a check, if the client falls off, it will be restarted automatically. <br>
+
+**For Windows**<br>
 https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
+<br>(is the defender swearing? - this is his normal reaction to all .bat files)
 
-Open the batch file in a text editor. Replace Your_Nick_Hire with your nickname or BTC address <br>
-The default value is 7200 seconds (2 hours) until next restart.<br>
+Open START_POOL.bat in a text editor. Replace Your_Nick_Hire with your nickname or BTC address <br>
+The default value is 7200 seconds (2 hours) until the next program restart.<br>
 You can set another value 3600 (hour) or 14400 (4 hours)<br>
 Do not set the value too low (less than an hour)<br>
 Save the batch file. <br>
 Place the file next to the program bb.exe (bb)<br>
-
-For Windows:<br>
-Zarusk START_POOL.bat.
+Zarusk pool ```START_POOL.bat```<br>
 2 windows should open.<br>
 In the first window there is a timer (time until reboot), in the second window there is a pool client.<br>
 After the reboot, the client window opens minimized, look at the bottom of the screen, it can be expanded.<br>
-Launch for Ubuntu:<br>
-```chmod +x start.sh```<br>
-```./start.sh```
 <hr>
 
 **I didn't find the answer to my question**
