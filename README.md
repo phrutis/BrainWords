@@ -431,7 +431,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 
 <hr>
 
-## Task phrases 10-11 :white_check_mark
+## Task phrases 10-11 :white_check_mark:
 Generating passphrases (sentences)
 
 **Alphabet:**
