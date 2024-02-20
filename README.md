@@ -431,36 +431,51 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 
 <hr>
 
-## ACTIVE TASK
+## Task phrases 10-11 :white_check_mark
 Generating passphrases (sentences)
 
 **Alphabet:**
 
 abcdefghijklm nopqrstuvwxyz.,!
 <br>
-Current position "w"<br>
 Length 1-10 :white_check_mark: <br>
-Length 11
+Current search position "w"<br>
+Length 11 :white_check_mark:
 
-|  Founds passphrases | Date |
-|---------------------------------|------|
-| ieuiroiga | 09.02.2024 |
-| defwkjauza | 09.02.2024 |
-| npgwzhmdxa | 10.02.2024 |
-| pneojnfpqc | 10.02.2024 |
-| oieuiroiga | 10.02.2024 |
-| snbfhpxequ | 10.02.2024 |
-| svcgsitrxd | 11.02.2024 |
-| tsatahudpd | 11.02.2024 |
-| uwan ak uz | 12.02.2024 |
-| adonix prod | 12.02.2024 |
-| itboalcxgok | 13.02.2024 |
-| ivuuwgntusi | 13.02.2024 |
-| jvpxulkjmbu | 13.02.2024 |
-| lengte crme | 14.02.2024 |
-| nyou nukeru | 15.02.2024 |
-| oieuiroigax | 15.02.2024 |
-| ricava peri | 16.02.2024 |
-| sqdspqmmbhn | 17.02.2024 |
-| vbwpfkslkwi | 18.02.2024 |
+| Found passwords | Date |
+|--------------------------------|------|
+| ieuiroiga | 02/09/2024 |
+| defwkjauza | 02/09/2024 |
+| npgwzhmdxa | 02/10/2024 |
+| pneojnfpqc | 02/10/2024 |
+| oieuiroiga | 02/10/2024 |
+| snbfhpxequ | 02/10/2024 |
+| svcgsitrxd | 02/11/2024 |
+| tsatahudpd | 02/11/2024 |
+| uwan ak uz | 02/12/2024 |
+| adonix prod | 02/12/2024 |
+| itboalcxgok | 02/13/2024 |
+| ivuuwgntusi | 02/13/2024 |
+| jvpxulkjmbu | 02/13/2024 |
+| lengte crme | 02/14/2024 |
+| nyou nukeru | 02/15/2024 |
+| oieuiroigax | 02/15/2024 |
+| ricava peri | 02/16/2024 |
+| sqdspqmmbhn | 02/17/2024 |
+| vbwpfkslkwi | 02/18/2024 |
 
+
+## ACTIVE Task
+Capital letter + 10th generation
+Generating passphrases (sentences)
+
+**Alphabet:**
+
+abcdefghijklm nopqrstuvwxyz.,!
+<br>
+Generation - length 10 <br>
+Current search position "A"<br>
+
+| Found passwords | Date |
+|--------------------------------|------|
+| | 02/20/2024 |
