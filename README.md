@@ -23,7 +23,7 @@ Launch, Connection and Questions will be posted in Group.<br>
 
 ## Performance
 
-| GPUs card     | Speed   |
+| GPUs card RTX    | Speed   |
 |---------------|---------|
 | 4090     | 360 Mkeys/s |
 | A100     | 180 Mkeys/s |
@@ -37,8 +37,8 @@ Launch, Connection and Questions will be posted in Group.<br>
 | 3060     | 70 Mkeys/s |
 | 2080 S   | 70 Mkeys/s |
 | 2070     | 50 Mkeys/s |
-| RTX 3050 | 45 MKeys/s |
-| RTX 2060 | 30 MKeys/s |
+| 3050 | 45 MKeys/s |
+| 2060 | 30 MKeys/s |
 
 *MKeys (millions of passwords per second)
 
