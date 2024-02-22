@@ -30,7 +30,8 @@ Launch, Connection and Questions will be posted in Group.<br>
 | A6000    | 170 Mkeys/s |
 | 3090     | 170 Mkeys/s |
 | 3080 Ti  | 160 Mkeys/s |
-| 3080     | 140 Mkeys/s |
+| 3080     | 150 Mkeys/s |
+| 4070     | 130 Mkeys/s |
 | 3070 Ti  | 110 Mkeys/s |
 | 3070     | 100 Mkeys/s |
 | 3060     | 70 Mkeys/s |
