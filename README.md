@@ -484,7 +484,7 @@ Generating passphrases (sentences)
 abcdefghijklm nopqrstuvwxyz.,!
 <br>
 Generation - length 10 <br>
-Current search position "A"<br>
+Current search position "E"<br>
 
 | Found passwords | Date |
 |--------------------------------|------|
