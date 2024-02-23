@@ -332,7 +332,7 @@ https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
 |16SMrHZPUQtEm6zbtbQnATbj7tT3Rio3HN| 90% :white_check_mark:| |
 |1CrsDmQUKsu5aWhgXGM9xJQzGjZZqqR9sq| 100% :white_check_mark:| |
 
-## Таблица прогресса задачи 9 (Приостановлена)
+## Таблица прогресса задачи 9 (Активная)
 **Алфавит: ?a?a?a?a?a?a?a?a?a**
 <br>
 ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789#$%&'`()*+,-./:;<=>?@[\]^_{}~```
@@ -345,7 +345,7 @@ https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
 |12Ta1qN8nhntcBNvagh99kcdjWmdUEFdvW| 02% :white_check_mark:| |
 |1FPtHP1pEcnQvgwhnNCAAFczvNyiUfDdQe| 03% :white_check_mark:| ClKgQjEjB |
 |18fYVfXcSQmVTR3AQCcoLwKytLRWap5H6y| 04% :white_check_mark:| |
-|1F8qb3EBqR55iqP3ATExneMgexo13WAPKr| 05% | ПРИОСТАНОВЛЕН! |
+|1F8qb3EBqR55iqP3ATExneMgexo13WAPKr| 05% | |
 |1F93LKmxMXSrKFVCk3kuSUUe6w63e2AZgG| 06% | |
 |1LQ1omv75wT8QnwGtke8Ey5Zho586m8CYU| 07% | |
 |1JNo8QVpuc3SR5wqKFSJxdiZywLuCvNfDn| 08% | |
@@ -471,7 +471,7 @@ abcdefghijklm nopqrstuvwxyz.,!
 | vbwpfkslkwi | 18.02.2024 |
 
 
-## АКТИВНАЯ Задача 
+## Задача - Остановлена на F
 Заглавная буква + 10 генерация
 Генерация парольных фраз (предложений)
 
@@ -480,7 +480,7 @@ abcdefghijklm nopqrstuvwxyz.,!
 abcdefghijklm nopqrstuvwxyz.,!
 <br>
 Генерация - Заглавная буква + длина 10 (алфавит выше) <br>
-Текущая позиция поиска "E"<br>
+Текущая позиция поиска "F"<br>
 
 |  Найденные пароли | Дата |
 |---------------------------------|------|
