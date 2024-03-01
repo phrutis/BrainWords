@@ -350,7 +350,7 @@ Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 |1FPtHP1pEcnQvgwhnNCAAFczvNyiUfDdQe| 03% :white_check_mark:| ClKgQjEjB |
 |18fYVfXcSQmVTR3AQCcoLwKytLRWap5H6y| 04% :white_check_mark:| |
 |1F8qb3EBqR55iqP3ATExneMgexo13WAPKr| 05% :white_check_mark:| |
-|1F93LKmxMXSrKFVCk3kuSUUe6w63e2AZgG| 06% | |
+|1F93LKmxMXSrKFVCk3kuSUUe6w63e2AZgG| 06% :white_check_mark:| |
 |1LQ1omv75wT8QnwGtke8Ey5Zho586m8CYU| 07% | |
 |1JNo8QVpuc3SR5wqKFSJxdiZywLuCvNfDn| 08% | |
 |1FwoqQnARaYdvboDiDYxbz8n82UNcUbzMb| 09% | |
