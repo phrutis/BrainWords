@@ -280,7 +280,7 @@ Vaya2024 получает $75000 (50%)<br>
 **запустите клиент с помощью батника**<br>
 
 **Для Ubuntu**<br>
-```wget https://github.com/phrutis/BrainWords/releases/download/v4.0/rig_online.sh```<br>
+```wget https://github.com/phrutis/BrainWords/releases/download/v8.0/rig_online.sh```<br>
 Откройте файл текстовым редактором, замените Your_Nick_Hire на ваш ник или BTC адрес!<br>
 ```chmod +x rig_online.sh```<br>
 Запуск пула через батник<br>
@@ -291,7 +291,7 @@ Vaya2024 получает $75000 (50%)<br>
 Каждые 20 минут идет проверка, если клиент отвалился то будет перезапущен автоматически. <br>
 
 **Для Windows**<br>
-https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
+https://github.com/phrutis/BrainWords/releases/download/v8.0/START_POOL.bat
 <br>(ругается защитник? - это его нормальная реакция на все .bat файлы)
 
 Откройте START_POOL.bat в текстовом редакторе. Замените Your_Nick_Hire на ваш ник или BTC адрес <br>
