@@ -285,7 +285,7 @@ Download the AnyDesk application to your phone. It will take 5 seconds for the c
 **start the client using the batch file**<br>
 
 **For Ubuntu**<br>
-```wget https://github.com/phrutis/BrainWords/releases/download/v4.0/rig_online.sh```<br>
+```wget https://github.com/phrutis/BrainWords/releases/download/v8.0/rig_online.sh```<br>
 Open the file with a text editor, replace Your_Nick_Hire with your nickname or BTC address!<br>
 ```chmod +x rig_online.sh```<br>
 Launching a pool via a body file<br>
@@ -296,7 +296,7 @@ There was probably some kind of server or internet failure or error, the client 
 Every 20 minutes there is a check, if the client falls off, it will be restarted automatically. <br>
 
 **For Windows**<br>
-https://github.com/phrutis/BrainWords/releases/download/v4.0/START_POOL.bat
+https://github.com/phrutis/BrainWords/releases/download/v8.0/START_POOL.bat
 <br>(is the defender swearing? - this is his normal reaction to all .bat files)
 
 Open START_POOL.bat in a text editor. Replace Your_Nick_Hire with your nickname or BTC address <br>
