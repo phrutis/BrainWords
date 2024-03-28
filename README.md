@@ -7,8 +7,9 @@
 The program uses fast algorithms and CUDA libraries.<br>
 
 We managed to achieve a speed of RTX 4090 = 360M/s (360000000 passwords/s)<br>
-We are currently looking for all addresses of BTC Legacy 1... (from $20)<br>
-Current task: capital letters + numbers (progress at the bottom of the page)<br>
+We are currently looking for all addresses of BTC Legacy 1...<br>
+Current task: a-z0-9+space<br>
+Reset statistics every week<br>
 The program searches in two modes at once.<br>
 From one private key, 2 addresses are checked (compressed and uncompressed)
 <br>
