@@ -41,7 +41,7 @@
 
 Если вы готовы искать вместе с нами 24/7, присоединяйтесь.<br>
 Админы: OPS Biz, phrutis<br>
-Telegram: https://t.me/+k1jKsx_fxTo1MzQx<br>
+Telegram: Если вы готовы искать 24/7 напишите phrutis получите ссылку приглашение в группу<br>
 Онлайн статистика пула: [https://phrutisbrainwords.com](https://phrutisbrainwords.com)
 
 ## Запуск программы
@@ -305,12 +305,6 @@ https://github.com/phrutis/BrainWords/releases/download/v8.0/START_POOL.bat
 Должно открыться 2 окна.<br>
 В первом окне таймер (время до перезагрузки), во втором окне клиент пула.<br>
 После перезагрузки окно клиента открывается свернуто, смотрите внизу экрана, его можно развернуть.<br>
-<hr>
-
-**Я не нашел ответ на свой вопрос**
-<br><br>
-Задайте его в Telegram: https://t.me/+k1jKsx_fxTo1MzQx
-<br>
 <hr>
 
 ### Гипотеза коллизий
