@@ -18,7 +18,7 @@ Web statistics: [https://phrutisbrainwords.com](https://phrutisbrainwords.com)
 **If you are ready to search with us 24/7, join us.**
 <br><br>
 Admins: OPS Biz, phrutis<br>
-Telegram: https://t.me/+k1jKsx_fxTo1MzQx<br>
+Telegram: If you are ready to search 24/7, write to phrutis and receive a link to invite you to the group<br>
 Launch, Connection and Questions will be posted in Group.<br>
 
 
@@ -310,9 +310,4 @@ Zarusk pool ```START_POOL.bat```<br>
 2 windows should open.<br>
 In the first window there is a timer (time until reboot), in the second window there is a pool client.<br>
 After the reboot, the client window opens minimized, look at the bottom of the screen, it can be expanded.<br>
-<hr>
-
-**I didn't find the answer to my question**
-<br><br>
-Ask it in Telegram chat: https://t.me/+k1jKsx_fxTo1MzQx<br>
 <hr>
