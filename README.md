@@ -18,8 +18,8 @@ Web statistics: [https://phrutisbrainwords.com](https://phrutisbrainwords.com)
 **If you are ready to search with us 24/7, join us.**
 <br><br>
 Admins: OPS Biz, phrutis<br>
-Telegram: If you are ready to search 24/7, write to phrutis and receive a link to invite you to the group<br>
-Launch, Connection and Questions will be posted in Group.<br>
+If you are ready to search 24/7<br>
+Telegram: https://t.me/+XZ-nyaiZ7IBhMmFh<br>
 
 
 ## Performance
