@@ -20,8 +20,6 @@ Web statistics: [https://phrutisbrainwords.com](https://phrutisbrainwords.com)
 Admins: OPS Biz, phrutis<br>
 If you are ready to search 24/7<br>
 Telegram: https://t.me/+XZ-nyaiZ7IBhMmFh<br>
-If you are not ready, welcome to the main chat:<br>
-Telegram: **https://t.me/wif500**
 
 ## Performance
 
