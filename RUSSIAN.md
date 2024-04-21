@@ -42,8 +42,6 @@
 Если вы готовы искать вместе с нами 24/7, присоединяйтесь.<br>
 Админы: OPS Biz, phrutis<br>
 Telegram: https://t.me/+k1jKsx_fxTo1MzQx<br>
-**Если не готовы искать 24/7 добро пожаловать в главный чат** <br>
-**https://t.me/wif500**
 Онлайн статистика пула: [https://phrutisbrainwords.com](https://phrutisbrainwords.com)
 
 ## Запуск программы
